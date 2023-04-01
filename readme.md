@@ -2,9 +2,9 @@
 
 **You can use deployed version:** [CLICK ME](https://eclectic-tartufo-f0e0bf.netlify.app/)
 
-*or launch locally:*
+*or copy and paste into your code-editor command line:*
 
-`git clone git@github.com:sanich123/songBird.git project`
+`git clone git@github.com:sanich123/songBird.git project&&cd project&&npm i&&npm start`
 
 `cd project`
 
